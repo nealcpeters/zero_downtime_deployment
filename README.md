@@ -6,6 +6,8 @@ Dependencies:
  ```
  python3
  boto3
+ aws account with necessary access keys configured locally
+ classic load balancer with three registered ec2 instances of the same ami
  ```
 
 How to run:
